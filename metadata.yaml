@@ -1,0 +1,29 @@
+_repo: The-Anglican-Friarand-the-Fish-which-he-Took-by-Hook-and-by-Crook_35553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Novice, active 19th century
+    aliases:
+    - Novice, A.
+    - Grant, C. D.
+    gutenberg_agent_id: '37745'
+    url: http://www.gutenberg.org/2009/agents/37745
+description: ''
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- !lcsh 'Fishing -- Poetry'
+title: "The Anglican Friar, and the Fish which he Took by Hook and by Crook\r\nA Comic\
+  \ Legend"
+url: http://www.gutenberg.org/ebooks/35553
